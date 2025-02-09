@@ -31,7 +31,7 @@
 }
 body {
   min-height: 100vh;
-  background-image: url(/img/background.jpg);
+  background-image: url(./img/background.jpg);
   padding: 20px 28px;
   animation: bgAnimation 1000s infinite linear;
 }
@@ -125,7 +125,7 @@ nav {
   width: 400px;
   height: 600px;
   border-radius: 12px;
-  background-image: url(/img/film1.jpg);
+  background-image: url(./img/film1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -153,7 +153,7 @@ nav {
   gap: 30px 30px;
 }
 .similarCard {
-  background-image: url(/img/film2.jpg);
+  background-image: url(./img/film2.jpg);
   background-repeat: no-repeat;
   height: 600px;
   border-radius: 16px;
@@ -173,7 +173,7 @@ nav {
   border-radius: 0 0 16px 16px;
 }
 .similar {
-  background-image: url(/img/favBtn.svg);
+  background-image: url(./img/favBtn.svg);
   width: 60px;
   height: 60px;
   position: absolute;
